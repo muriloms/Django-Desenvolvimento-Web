@@ -1,5 +1,5 @@
  # Django
-- Documentação: [Projeto Django](https://www.djangoproject.com/)
+- Documentação: [Projeto Django](https://www.djangoproject.com/)</br>
 O objetivo desse repositório é organizar os principais comandos do Django para o desenvolvimento de uma aplicação Web
 ## Desenvolvimento Web
 Django é um framework para aplicações web gratuito e de código aberto, escrito em Python. Um web framework é um conjunto de componentes que ajuda você a desenvolver sites de forma mais rápida e fácil. Utiliza o padrão model-template-view (MTV)
