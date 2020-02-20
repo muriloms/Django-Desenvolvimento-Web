@@ -13,3 +13,6 @@ Ative o ambiente
 ## Instalar Django e lib para banco de dados
 `pip install Django`<br/>
 `pip install psycopg2` - PostGres 
+
+#### (no ubunto caso não instalar direto o psycopg, roda o códio abaixo)
+` sudo apt-get install libpq-dev python-dev`
